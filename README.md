@@ -82,8 +82,6 @@ Brak tabeli dat – time intelligence nie zadziała poprawnie.
 Zanim piszesz CALCULATE, upewnij się, jaki jest kontekst filtra na wizualizacji.
 Jeśli chcesz, mogę:
 
-Przygotować Ci plik .pbix z przykładowym modelem i ćwiczeniami.
-Dać checklistę do weryfikacji modelu przed publikacją.
-Odpowiedzieć na pytania po polsku podczas nauki (np. czemu miara daje BLANK itp.).
+
 
 
